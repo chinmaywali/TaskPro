@@ -33,7 +33,7 @@ The TaskPro App is a flutter-firebase application for managing tasks and to-do l
 | ------- | ------- |------- |
 |![WhatsApp Image 2024-01-23 at 17 04 48_1e848b62](https://github.com/chinmaywali/Weather-App/assets/123446377/bb77f00e-1a3d-4667-bc48-1ae51a6bacea) | ![WhatsApp Image 2024-01-23 at 17 04 49_3a6b3ef3](https://github.com/chinmaywali/Weather-App/assets/123446377/1d286cac-9b9a-4c04-a323-b464a1b6f989) | ![WhatsApp Image 2024-01-23 at 17 04 50_90988aff](https://github.com/chinmaywali/Weather-App/assets/123446377/d7d0eb31-320d-4811-801e-5a461ba0081d)|     
 
-| Image 10 | 
+| Image 10|
 | ------- | 
 | ![WhatsApp Image 2024-01-23 at 17 04 48_037afd5d](https://github.com/chinmaywali/Weather-App/assets/123446377/584dd6af-7cce-4c54-9806-6a92c0aec11d) |
 
