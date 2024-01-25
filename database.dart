@@ -6,7 +6,7 @@ class DatabaseServices {
     return await FirebaseFirestore.instance
         .collection("Personal")
         .doc(id)
-        .set(userPersonalMap);
+        .set(userPersonalMap); 
   }
 
   Future addCollegeTask(Map<String, dynamic> userPersonalMap, String id) async {
