@@ -12,7 +12,7 @@ class AboutPage extends StatelessWidget {
         elevation: 0,
         title: Text('About'),
       ),
-      body: Padding(
+      body: Padding( 
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
